@@ -34,4 +34,4 @@ The Full-Stack Engineer Path on Codecademy is an immersive, comprehensive progra
 Feel free to reach out to me if you have any questions, suggestions, or just want to connect!
 
 - **Email**: [Ahmed AbdelFattah](mailto:ahmed3bdlfta7@gmail.com)
-- **LinkedIn**: [Ahmed AbdelFattah](www.linkedin.com/in/ahmed~abdelfattah)
+- **LinkedIn**: [Ahmed AbdelFattah](https://www.linkedin.com/in/ahmed~abdelfattah)
